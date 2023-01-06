@@ -14,3 +14,5 @@
 - 💬 Ping me about CodeIgniter, Laravel, Vue/ Nuxt, and Web Development
 - 📫 Reach me: [Robhi Sanjaya](https://www.linkedin.com/in/putu-robi-sanjaya/)
 - ⚡️ Fun fact: Besides coding, I also really like music
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=robhi2031&theme=vue-dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
