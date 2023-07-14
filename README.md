@@ -15,5 +15,4 @@
 - 📫 Reach me: [Robhi Sanjaya](https://www.linkedin.com/in/putu-robi-sanjaya/)
 - ⚡️ Fun fact: Besides coding, I also really like music
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robhi2031&show_icons=true&theme=buefy)
 [![GitHub Streak](https://streak-stats.demolab.com?user=robhi2031&theme=vue-dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
